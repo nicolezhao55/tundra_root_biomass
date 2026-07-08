@@ -1,0 +1,43 @@
+core_id,depth,treatment,root_dry_biomass_g,thin_white_branched,thin_white_unbranched,thick_white_branched,thick_white_unbranched,thin_beige_branched,thin_beige_unbranched,thick_beige_branched,thick_beige_unbranched,thin_brown_branched,thin_brown_unbranched,thick_brown_branched,thick_brown_unbranched,thin_black_branched,thin_black_unbranched,thick_black_branched,thick_black_unbranched
+RC21.6Top,Top,Heatwave,0.025,present,present,absent,absent,absent,absent,present,present,absent,absent,absent,absent,absent,absent,absent,absent
+RC21.6Bottom,Bottom,Heatwave,0.007,present,present,absent,absent,absent,absent,present,present,present,absent,absent,absent,absent,absent,absent,absent
+RC12.6Top,Top,Heatwave,0.013,absent,present,absent,absent,present,present,absent,present,present,present,absent,absent,absent,absent,absent,absent
+RC12.6Bottom,Bottom,Heatwave,0.047,absent,absent,absent,absent,present,present,absent,absent,absent,present,absent,absent,absent,present,absent,absent
+RC3.6Top,Top,Heatwave,0.001,present,absent,absent,present,absent,present,present,present,absent,absent,absent,present,absent,absent,absent,absent
+RC3.6Bottom,Bottom,Heatwave,0,absent,absent,absent,absent,absent,absent,absent,absent,present,absent,absent,absent,present,absent,absent,absent
+RC11.6Top,Top,Heatwave,0.003,present,present,absent,present,absent,present,absent,absent,present,present,absent,absent,absent,absent,absent,absent
+RC11.6Bottom,Bottom,Heatwave,0.007,present,present,absent,present,absent,absent,present,absent,absent,absent,absent,absent,present,present,absent,absent
+RC9.6Top,Top,Control,0.005,present,absent,absent,absent,absent,present,absent,absent,absent,present,absent,absent,absent,present,absent,absent
+RC9.6Bottom,Bottom,Control,0,absent,absent,absent,absent,absent,present,absent,absent,absent,absent,absent,absent,absent,present,absent,absent
+RC15.6Top,Top,Control,0.005,present,present,absent,absent,absent,present,absent,absent,present,present,absent,absent,absent,absent,absent,absent
+RC15.6Bottom,Bottom,Control,0.01,present,present,present,absent,absent,absent,absent,absent,present,absent,absent,absent,absent,absent,absent,absent
+RC14.6Top,Top,Control,0.019,present,present,present,absent,present,absent,absent,present,absent,absent,absent,absent,absent,absent,absent,absent
+RC14.6Bottom,Bottom,Control,0.011,present,absent,absent,present,absent,present,present,absent,absent,absent,absent,present,absent,absent,absent,absent
+RC19.6Top,Top,Heatwave,0,absent,absent,absent,absent,absent,present,absent,absent,absent,present,absent,absent,absent,present,absent,absent
+RC19.6Bottom,Bottom,Heatwave,0,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent
+RC2.6Top,Top,Heatwave,0,absent,present,absent,absent,absent,absent,absent,absent,present,absent,absent,absent,absent,absent,absent,absent
+RC2.6Bottom,Bottom,Heatwave,0.002,present,absent,absent,absent,present,absent,absent,absent,present,present,absent,absent,absent,absent,absent,absent
+RC5.6Top,Top,Control,0,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent
+RC5.6Bottom,Bottom,Control,0,absent,absent,absent,absent,absent,present,absent,absent,absent,present,absent,absent,absent,present,absent,absent
+RC4.6Top,Top,Control,0.008,present,present,absent,absent,absent,absent,absent,absent,absent,present,absent,absent,absent,absent,absent,absent
+RC4.6Bottom,Bottom,Control,0.002,absent,present,absent,absent,absent,present,absent,absent,absent,absent,absent,absent,absent,present,absent,absent
+RC20.6Top,Top,Control,0.003,absent,present,absent,present,present,absent,absent,absent,present,absent,absent,absent,absent,present,absent,absent
+RC20.6Bottom,Bottom,Control,0.003,absent,absent,absent,absent,absent,present,absent,absent,absent,present,absent,absent,absent,present,absent,absent
+RC17.6Top,Top,Control,0.005,absent,present,absent,absent,absent,present,absent,absent,absent,present,present,present,present,present,present,absent
+RC17.6Bottom,Bottom,Control,0.002,absent,present,absent,absent,present,present,absent,absent,present,present,absent,absent,absent,present,absent,absent
+RC13.6Top,Top,Heatwave,0.004,absent,present,absent,absent,present,present,absent,absent,present,present,absent,absent,absent,present,absent,absent
+RC13.6Bottom,Bottom,Heatwave,0,absent,present,absent,absent,absent,present,absent,absent,absent,absent,absent,absent,absent,present,absent,absent
+RC6.6Top,Top,Extended (Darkness),0.005,absent,present,absent,absent,absent,present,absent,absent,present,present,absent,absent,absent,absent,absent,absent
+RC6.6Bottom,Bottom,Extended (Darkness),0,absent,absent,absent,absent,absent,present,absent,absent,present,absent,absent,absent,absent,absent,absent,absent
+RC16.6Top,Top,Extended ,0.002,absent,present,absent,absent,present,absent,absent,absent,present,absent,absent,absent,absent,absent,absent,absent
+RC16.6Bottom,Bottom,Extended,0.003,present,present,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent
+RC1.6Top,Top,Extended (Darkness),0.011,present,present,absent,absent,absent,present,absent,absent,present,absent,absent,absent,absent,absent,absent,absent
+RC1.6Bottom,Bottom,Extended (Darkness),0.003,absent,absent,absent,absent,absent,present,absent,absent,present,absent,absent,absent,absent,absent,absent,absent
+RC8.6Top,Top,Extended (Darkness),0.012,present,present,absent,absent,present,present,absent,present,absent,absent,absent,absent,absent,absent,absent,absent
+RC8.6Bottom,Bottom,Extended (Darkness),0.034,present,present,absent,absent,absent,absent,absent,absent,present,absent,present,absent,absent,absent,absent,absent
+RC7.6Top,Top,Extended,0.027,present,present,absent,absent,present,absent,present,absent,absent,absent,absent,absent,absent,absent,absent,absent
+RC7.6Bottom,Bottom,Extended,0.013,present,present,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent
+RC18.6Top,Top,Extended,0.019,present,present,absent,absent,present,present,absent,absent,present,present,absent,absent,absent,absent,absent,absent
+RC18.6Bottom,Bottom,Extended,0.053,present,present,present,absent,absent,absent,present,present,absent,absent,absent,absent,present,present,absent,absent
+RC10.6Top,Top,Extended,0.008,absent,present,absent,present,absent,absent,present,absent,present,present,absent,absent,absent,absent,absent,absent
+RC10.6Bottom,Bottom,Extended,0.001,absent,present,absent,absent,present,present,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent
